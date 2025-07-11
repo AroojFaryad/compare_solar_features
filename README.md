@@ -2,7 +2,6 @@
 Comparative analysis of Hα spectral profiles across solar features using SST data.
 
 ##  Project Structure
-```
 solar-ha-profiles/
 ├── data/                   # SST FITS files 
 ├── results/                # Output plots
@@ -10,7 +9,7 @@ solar-ha-profiles/
 └── README.md
 ```
 
-## 🧮 Scientific Context
+##  Scientific Context
 Compares spectral signatures of:
 - Quiet Sun (baseline)
 - Sunspots (cooler regions)
