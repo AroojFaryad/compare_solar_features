@@ -3,10 +3,10 @@ Comparative analysis of Hα spectral profiles across solar features using SST da
 
 ##  Project Structure
 solar-ha-profiles/
-├── data/                   # SST FITS files 
-├── results/                # Output plots
-├── plot_ha_profiles.py     # Main analysis script
-└── README.md
+*data/                   # SST FITS files 
+*results/                # Output plots
+*plot_ha_profiles.py     # Main analysis script
+*README.md
 ```
 
 ##  Scientific Context
