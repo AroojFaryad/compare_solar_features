@@ -1,12 +1,15 @@
 # Hα Spectral Profile Analyzer
 Comparative analysis of Hα spectral profiles across solar features using SST data.
 
-##  Project Structure
-solar-ha-profiles/
+## Project Structure
+solar-ha-profiles
 
-data/                   # SST FITS files 
-results/                # Output plots
+data                   # SST FITS files 
+
+results                # Output plots
+
 plot_ha_profiles.py     # Main analysis script
+
 README.md
 ```
 
