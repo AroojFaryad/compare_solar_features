@@ -9,11 +9,11 @@ solar-ha-profiles/
 *README.md
 ```
 
-##  Scientific Context
+ Scientific Context
 Compares spectral signatures of:
 - Quiet Sun (baseline)
 - Sunspots (cooler regions)
 - Ellerman Bombs (magnetic reconnection)
 - Bright Points (local heating)
 
-```# compare_solar_features
+compare_solar_features
